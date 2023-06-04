@@ -10,6 +10,8 @@ public class GeniusDBContext : DbContext
     public GeniusDBContext(DbContextOptions<GeniusDBContext> options) : base(options){}
     
     public DbSet<Owner> Owners { get; set; }
+    public DbSet<Parking> Parkings { get; set; }
+    public DbSet<Rent> Rents { get; set; }
     
     //Configuracion
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -34,5 +36,19 @@ public class GeniusDBContext : DbContext
         builder.Entity<Owner>().Property(l => l.lastName).HasMaxLength(30);
         builder.Entity<Owner>().Property(a => a.age);
         builder.Entity<Owner>().Property(c => c.phone).HasPrecision(9);
+        
+        builder.Entity<Parking>().ToTable("Parkings");
+        builder.Entity<Parking>().HasKey(p => p.id_parking);
+        builder.Entity<Parking>().Property(p => p.id_parking).IsRequired().ValueGeneratedOnAdd();
+        builder.Entity<Parking>().Property(c => c.costPerHour);
+        builder.Entity<Parking>().Property(a => a.address).HasMaxLength(50);
+        builder.Entity<Parking>().Property(s => s.spaces);
+        
+        builder.Entity<Rent>().ToTable("Rents");
+        builder.Entity<Rent>().HasKey(p => p.Id_rent);
+        builder.Entity<Rent>().Property(p => p.Id_rent).IsRequired().ValueGeneratedOnAdd();
+        builder.Entity<Rent>().Property(pt => pt.payment_type).HasMaxLength(25);
+        builder.Entity<Rent>().Property(a => a.amount);
+        
     }
 }

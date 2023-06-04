@@ -15,6 +15,10 @@ builder.Services.AddSwaggerGen();
 //Customizado
 builder.Services.AddScoped<IOwnerInfraestructure, OwnerParkInfra>();
 builder.Services.AddScoped<IOwnerDomain, OwnerDomain>();
+builder.Services.AddScoped<IParkingInfraestructure, ParkingInfra>();
+builder.Services.AddScoped<IParkingDomain, ParkingDomain>();
+builder.Services.AddScoped<IRentInfraestructure, RentInfra>();
+builder.Services.AddScoped<IRentDomain, RentDomain>();
 
 //MySQL Connection
 var connectionString = builder.Configuration.GetConnectionString("geniusConnection");

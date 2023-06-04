@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain.Test\\Domain.Test.csproj": {}
+    "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain.Test\\Domain.Test.csproj": {}
   },
   "projects": {
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain.Test\\Domain.Test.csproj": {
+    "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain.Test\\Domain.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain.Test\\Domain.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain.Test\\Domain.Test.csproj",
         "projectName": "Domain.Test",
-        "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain.Test\\Domain.Test.csproj",
-        "packagesPath": "C:\\Users\\mijae\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain.Test\\obj\\",
+        "projectPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain.Test\\Domain.Test.csproj",
+        "packagesPath": "C:\\Users\\Rendery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mijae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Rendery\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj"
+              "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain\\Domain.csproj"
               },
-              "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj"
+              "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj"
               }
             }
           }
@@ -92,32 +90,30 @@
         }
       }
     },
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj": {
+    "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\mijae\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Rendery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mijae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Rendery\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj"
+              "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj"
               }
             }
           }
@@ -151,24 +147,22 @@
         }
       }
     },
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {
+    "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\mijae\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Rendery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mijae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Rendery\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
