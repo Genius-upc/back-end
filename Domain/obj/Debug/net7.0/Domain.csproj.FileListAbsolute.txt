@@ -1,0 +1,15 @@
+D:\cursos\appsweb\project\GeniusBackend\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\cursos\appsweb\project\GeniusBackend\Domain\bin\Debug\net7.0\Domain.dll
+D:\cursos\appsweb\project\GeniusBackend\Domain\bin\Debug\net7.0\Domain.pdb
+D:\cursos\appsweb\project\GeniusBackend\Domain\bin\Debug\net7.0\Infraestructure.dll
+D:\cursos\appsweb\project\GeniusBackend\Domain\bin\Debug\net7.0\Infraestructure.pdb
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\Domain.dll
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\Domain.pdb
+D:\cursos\appsweb\project\GeniusBackend\Domain\obj\Debug\net7.0\ref\Domain.dll
