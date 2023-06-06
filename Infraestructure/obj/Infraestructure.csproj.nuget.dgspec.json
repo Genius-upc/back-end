@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj": {}
+    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj": {
+    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\Rendery\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rendery\\Desktop\\front\\NuevoGrupo\\back-end\\Infraestructure\\obj\\",
+        "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\mijae\\.nuget\\packages\\",
+        "outputPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rendery\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mijae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +41,10 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
               "version": "[7.0.5, )"
             },
