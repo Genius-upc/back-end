@@ -1,6 +1,8 @@
 using Domain;
+using Domain.OwnerTypeD;
 using Infraestructure;
 using Infraestructure.Context;
+using Infraestructure.OwnerType;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +21,8 @@ builder.Services.AddScoped<IParkingInfraestructure, ParkingInfra>();
 builder.Services.AddScoped<IParkingDomain, ParkingDomain>();
 builder.Services.AddScoped<IRentInfraestructure, RentInfra>();
 builder.Services.AddScoped<IRentDomain, RentDomain>();
+builder.Services.AddScoped<IOwnerTypeInfra, OwnerTypeInfra>();
+builder.Services.AddScoped<IOwnerTypeDomain, OwnerTypeDomain>();
 
 //MySQL Connection
 var connectionString = builder.Configuration.GetConnectionString("geniusConnection");
