@@ -12,7 +12,8 @@ public class GeniusDBContext : DbContext
     public DbSet<Owner> Owners { get; set; }
     public DbSet<Parking> Parkings { get; set; }
     public DbSet<Rent> Rents { get; set; }
-    
+    public DbSet<OwnerType.OwnerType> OwnerTypes { get; set; }
+
     //Configuracion
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -50,5 +51,12 @@ public class GeniusDBContext : DbContext
         builder.Entity<Rent>().Property(pt => pt.payment_type).HasMaxLength(25);
         builder.Entity<Rent>().Property(a => a.amount);
         
+        //OwnerType
+        builder.Entity<OwnerType.OwnerType>().ToTable("OwnerTypes");
+        builder.Entity<OwnerType.OwnerType>().HasKey(i => i.idOwnerType);
+        builder.Entity<OwnerType.OwnerType>().Property(i => i.idOwnerType).IsRequired().ValueGeneratedOnAdd();
+        builder.Entity<OwnerType.OwnerType>().Property(n => n.nameType).IsRequired().HasMaxLength(30);
+        builder.Entity<OwnerType.OwnerType>().Property(d => d.description).IsRequired().HasMaxLength(50);
+
     }
 }
