@@ -9,29 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API
 build_property.RootNamespace = API
-build_property.ProjectDir = D:\cursos\appsweb\project\GeniusBackend\API\
+build_property.ProjectDir = /Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\cursos\appsweb\project\GeniusBackend\API
+build_property.MSBuildProjectDirectory = /Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/cursos/appsweb/project/GeniusBackend/API/Views/Owner/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcQ3JlYXRlLmNzaHRtbA==
+[/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/Views/Owner/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3duZXIvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/cursos/appsweb/project/GeniusBackend/API/Views/Owner/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcRGVsZXRlLmNzaHRtbA==
+[/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/Views/Owner/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3duZXIvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/cursos/appsweb/project/GeniusBackend/API/Views/Owner/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcRGV0YWlscy5jc2h0bWw=
+[/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/Views/Owner/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3duZXIvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/cursos/appsweb/project/GeniusBackend/API/Views/Owner/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcRWRpdC5jc2h0bWw=
+[/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/Views/Owner/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3duZXIvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/cursos/appsweb/project/GeniusBackend/API/Views/Owner/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcSW5kZXguY3NodG1s
+[/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/Views/Owner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3duZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

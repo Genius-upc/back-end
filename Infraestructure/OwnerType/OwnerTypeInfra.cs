@@ -1,4 +1,5 @@
-﻿using Infraestructure.Context;
+﻿using Genius.Infraestructure.Context;
+using Infraestructure.Context;
 
 namespace Infraestructure.OwnerType;
 

@@ -15,4 +15,10 @@
       <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Context\" />
+      <Folder Include="User\Repository\" />
+      <Folder Include="User\Service\" />
+    </ItemGroup>
+
 </Project>

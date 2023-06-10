@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\API\\API.csproj": {}
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/API.csproj": {}
   },
   "projects": {
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\API\\API.csproj": {
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos\\appsweb\\project\\GeniusBackend\\API\\API.csproj",
+        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\mijae\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\API\\obj\\",
+        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/API.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mijae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj"
+              "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Domain/Domain.csproj": {
+                "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Domain/Domain.csproj"
               },
-              "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj"
+              "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj": {
+                "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj"
               }
             }
           }
@@ -125,36 +123,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj": {
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj",
+        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\mijae\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Domain\\obj\\",
+        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Domain/Domain.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mijae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj"
+              "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj": {
+                "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj"
               }
             }
           }
@@ -184,28 +180,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\mijae\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\obj\\",
+        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mijae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -265,7 +259,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
