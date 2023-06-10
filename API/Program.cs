@@ -1,5 +1,7 @@
 using Domain;
 using Domain.OwnerTypeD;
+using Genius.Domain;
+using Genius.Infraestructure;
 using Infraestructure;
 using Infraestructure.Context;
 using Infraestructure.OwnerType;
@@ -15,6 +17,15 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 //Customizado
+builder.Services.AddScoped<IDriverDomain, DriverDomain>();
+builder.Services.AddScoped<IDriverInfraestructure, DriverInfraestructure>();
+
+builder.Services.AddScoped<ICarDomain, CarDomain>();
+builder.Services.AddScoped<ICarInfraestructure, CarInfraestructure>();
+
+
+
+
 builder.Services.AddScoped<IOwnerInfraestructure, OwnerParkInfra>();
 builder.Services.AddScoped<IOwnerDomain, OwnerDomain>();
 builder.Services.AddScoped<IParkingInfraestructure, ParkingInfra>();

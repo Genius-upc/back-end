@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {}
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj": {}
   },
   "projects": {
-    "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj": {
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\mijae\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos\\appsweb\\project\\GeniusBackend\\Infraestructure\\obj\\",
+        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/Infraestructure.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/back-end/Infraestructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mijae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -81,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
